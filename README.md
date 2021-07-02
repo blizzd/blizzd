@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working for @NordSecurity
+- 🔭 I’m currently working for @NordSec
 - 🌱 I’m currently learning Machine Learning using CoreML/ARKit.
 - 👯 I’m looking to collaborate on your iOS App Idea.
 - 🤔 I’m looking for help with UI Design Resources.
