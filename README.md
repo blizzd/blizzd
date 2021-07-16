@@ -8,5 +8,5 @@
 - 💬 Ask me about Advice for Living in Germany.
 - 📫 How to reach me: blizz@blizzd.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Any day is a good day for GitHub to cancel their ICE contract.
 
