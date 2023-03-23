@@ -8,5 +8,5 @@
 - 💬 Ask me about Advice for Living in Germany.
 - 📫 How to reach me: blizz@blizzd.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Like analog photography, especially old Polaroid camera! 📷 
+- ⚡ Fun fact: Likes analog photography, especially old Polaroid cameras! 📷 
 
