@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently looking for my next opportunity as a Principal/Senior iOS Engineer (full-time)
+- 🔭 I’m currently working as a Principal iOS Engineer (full-time)
 - 🌱 I’m currently learning more async/await and SwiftData
 - 👯 I’m looking to informally discuss your iOS App Idea 💡 
 - 🤔 I’m looking for help with UX Resources.
